@@ -1,0 +1,28 @@
+{
+  "date": "2026-07-27",
+  "items": [
+    {
+      "carrier": "Maersk",
+      "type": "附加费",
+      "route": "欧线",
+      "effective": "24 Jul 2026",
+      "amount": "$100",
+      "detail": "Latest news"
+    },
+    {
+      "carrier": "Maersk",
+      "type": "附加费",
+      "route": "欧线",
+      "effective": "24 Jul 2026",
+      "amount": "$100",
+      "detail": "CONOSUR SERVICE : TEMPORARY WINTER PORT CHANGE"
+    },
+    {
+      "carrier": "Maersk",
+      "type": "附加费",
+      "route": "欧线",
+      "effective": "23 Jul 2026",
+      "detail": "Increase Peak Season Surcharge (PSS) – Far East Asia to Saudi Arabia"
+    }
+  ]
+}
