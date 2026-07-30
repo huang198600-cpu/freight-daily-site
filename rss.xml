@@ -5,6 +5,21 @@
     <link>https://freight-daily-site.vercel.app</link>
     <description>运价风向·船司动态·港口预警·操作建议</description>
     <item>
+      <title>MSC欧线GRI+$300 2026年货代成本冲击</title>
+      <link>https://freight-daily-site.vercel.app/articles/20260730-1-GRI涨价07月：2026年货代成本影响.html</link>
+      <pubDate>2026-07-30</pubDate>
+    </item>
+    <item>
+      <title>ONE美东GRI+250美元2026年7月：美东涨价对货代出货的影响</title>
+      <link>https://freight-daily-site.vercel.app/articles/20260730-2-GRI涨价07月：2026年货代成本影响.html</link>
+      <pubDate>2026-07-30</pubDate>
+    </item>
+    <item>
+      <title>美西附加费200美元2026年7月：Maersk新附加费对货代的影响</title>
+      <link>https://freight-daily-site.vercel.app/articles/20260730-3-航运surcharge2026年07月：.html</link>
+      <pubDate>2026-07-30</pubDate>
+    </item>
+    <item>
       <title>Maersk欧线附加费$100+即期运价$2700：2026年7月货代即期订舱成本分析</title>
       <link>https://freight-daily-site.vercel.app/articles/20260727-1-航运surcharge2026年07月：.html</link>
       <pubDate>2026-07-27</pubDate>
@@ -38,21 +53,6 @@
       <title>Maersk欧线附加费100美元2026年7月：即期订舱成本上涨应对</title>
       <link>https://freight-daily-site.vercel.app/articles/20260725-1-航运surcharge2026年07月：.html</link>
       <pubDate>2026-07-25</pubDate>
-    </item>
-    <item>
-      <title>欧线长协vs即期2026年7月：附加费频发下的订舱策略选择</title>
-      <link>https://freight-daily-site.vercel.app/articles/20260725-2-航运surcharge2026年07月：.html</link>
-      <pubDate>2026-07-25</pubDate>
-    </item>
-    <item>
-      <title>欧线运价走势2026年7月第4周：附加费叠加下的市场信号解读</title>
-      <link>https://freight-daily-site.vercel.app/articles/20260725-3-航运surcharge2026年07月：.html</link>
-      <pubDate>2026-07-25</pubDate>
-    </item>
-    <item>
-      <title>Maersk欧线附加费$100解读：即期货代7月成本增加实操指南</title>
-      <link>https://freight-daily-site.vercel.app/articles/20260724-1-航运surcharge2026年07月：.html</link>
-      <pubDate>2026-07-24</pubDate>
     </item>
   </channel>
 </rss>

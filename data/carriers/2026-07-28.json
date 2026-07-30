@@ -1,0 +1,82 @@
+{
+  "date": "2026-07-28",
+  "items": [
+    {
+      "carrier": "Maersk",
+      "type": "附加费",
+      "route": "欧线",
+      "effective": "24 Jul 2026",
+      "amount": "$100",
+      "detail": "Latest news"
+    },
+    {
+      "carrier": "Maersk",
+      "type": "附加费",
+      "route": "欧线",
+      "effective": "24 Jul 2026",
+      "amount": "$100",
+      "detail": "Temporary Rerouting of Import Containers to Leget Terminal"
+    },
+    {
+      "carrier": "Maersk",
+      "type": "附加费",
+      "route": "欧线",
+      "effective": "27 Jul 2026",
+      "detail": "Emergency Inland Fuel/Energy surcharge"
+    },
+    {
+      "carrier": "CMA CGM",
+      "type": "附加费",
+      "route": "中东",
+      "detail": "Middle East Situation Updates"
+    },
+    {
+      "carrier": "CMA CGM",
+      "type": "附加费",
+      "route": "地中",
+      "detail": "PSS – From the Mediterranean & North Africa to the Middle East Gulf & Red Sea"
+    },
+    {
+      "carrier": "CMA CGM",
+      "type": "附加费",
+      "route": "地中",
+      "detail": "FAK Rates - From the Mediterranean to the Middle East & Red Sea"
+    },
+    {
+      "carrier": "CMA CGM",
+      "type": "附加费",
+      "route": "地中",
+      "detail": "PSS - From the Mediterranean to the Middle East and Red Sea (OOG cargo)"
+    },
+    {
+      "carrier": "CMA CGM",
+      "type": "附加费",
+      "route": "其他",
+      "detail": "BAF update - Tunisia Roro service"
+    },
+    {
+      "carrier": "CMA CGM",
+      "type": "附加费",
+      "route": "中东",
+      "detail": "ADVISORY #12 - Middle East: Emergency Fuel Surcharge Implementation"
+    },
+    {
+      "carrier": "CMA CGM",
+      "type": "附加费",
+      "route": "其他",
+      "detail": "From China to Dar Es Salaam and Mombasa"
+    },
+    {
+      "carrier": "CMA CGM",
+      "type": "附加费",
+      "route": "欧线",
+      "detail": "FAK Rates - North West India, South East India, Sri Lanka & Pakistan to North Europe, the Mediterranean & North Africa"
+    },
+    {
+      "carrier": "CMA CGM",
+      "type": "附加费",
+      "route": "欧线",
+      "detail": "PSS UPDATE- From North Europe to the Middle East and Red Sea"
+    }
+  ]
+}
