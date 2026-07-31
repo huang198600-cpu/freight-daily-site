@@ -1,0 +1,28 @@
+{
+  "date": "2026-07-31",
+  "items": [
+    {
+      "carrier": "Maersk",
+      "type": "空班",
+      "route": "欧线",
+      "effective": "24 Jul 2026",
+      "amount": "$100",
+      "detail": "Latest news"
+    },
+    {
+      "carrier": "Maersk",
+      "type": "空班",
+      "route": "欧线",
+      "effective": "24 Jul 2026",
+      "amount": "$100",
+      "detail": "Northern Star - MAERSK NEWBURY 630S/633N - Brisbane Omission"
+    },
+    {
+      "carrier": "Maersk",
+      "type": "附加费",
+      "route": "其他",
+      "effective": "30 Jul 2026",
+      "detail": "Fuel Surcharge update in France"
+    }
+  ]
+}
