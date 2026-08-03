@@ -1,0 +1,76 @@
+{
+  "date": "2026-08-03",
+  "items": [
+    {
+      "carrier": "Maersk",
+      "type": "空班",
+      "route": "欧线",
+      "effective": "24 Jul 2026",
+      "amount": "$100",
+      "detail": "Latest news"
+    },
+    {
+      "carrier": "Maersk",
+      "type": "空班",
+      "route": "欧线",
+      "effective": "24 Jul 2026",
+      "amount": "$100",
+      "detail": "Equipment Handling Import –Import (EHI) – World to United Kingdom"
+    },
+    {
+      "carrier": "Maersk",
+      "type": "附加费",
+      "route": "欧线",
+      "effective": "31 Jul 2026",
+      "detail": "Low Water Surcharge (LWC) - Manaus 2026"
+    },
+    {
+      "carrier": "CMA CGM",
+      "type": "附加费",
+      "route": "中东",
+      "detail": "Middle East Situation Updates"
+    },
+    {
+      "carrier": "CMA CGM",
+      "type": "附加费",
+      "route": "欧线",
+      "detail": "PSS - From Red Sea to North Europe, Mediterranean & North Africa"
+    },
+    {
+      "carrier": "CMA CGM",
+      "type": "附加费",
+      "route": "其他",
+      "detail": "Equipment Surcharge (ERS) - Reefer cargo from Antwerp and Rotterdam to worldwide"
+    },
+    {
+      "carrier": "CMA CGM",
+      "type": "附加费",
+      "route": "欧线",
+      "detail": "FAK Rates - North West India, South East India, Sri Lanka & Pakistan to North Europe, the Mediterranean & North Africa"
+    },
+    {
+      "carrier": "CMA CGM",
+      "type": "附加费",
+      "route": "欧线",
+      "detail": "FAK Rates - Red Sea to North Europe, the Mediterranean & North Africa"
+    },
+    {
+      "carrier": "CMA CGM",
+      "type": "附加费",
+      "route": "南美",
+      "detail": "FAK Rates - From the Indian Subcontinent to Latin America"
+    },
+    {
+      "carrier": "CMA CGM",
+      "type": "附加费",
+      "route": "地中",
+      "detail": "PSS – From the Mediterranean & North Africa to the Middle East Gulf & Red Sea"
+    },
+    {
+      "carrier": "CMA CGM",
+      "type": "附加费",
+      "route": "地中",
+      "detail": "FAK Rates - From the Mediterranean to the Middle East & Red Sea"
+    }
+  ]
+}
