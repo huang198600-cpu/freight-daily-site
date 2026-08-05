@@ -1,6 +1,27 @@
 {
   "articles": [
     {
+      "id": "20260805-1",
+      "date": "2026-08-05",
+      "seo_title": "港口异常08月：2026年货代应对方案",
+      "topic_type": "port_alert",
+      "generated": false
+    },
+    {
+      "id": "20260805-2",
+      "date": "2026-08-05",
+      "seo_title": "航运rate_change2026年08月：货代影响与建议",
+      "topic_type": "rate_change",
+      "generated": false
+    },
+    {
+      "id": "20260805-3",
+      "date": "2026-08-05",
+      "seo_title": "航运rate_change2026年08月：货代影响与建议",
+      "topic_type": "rate_change",
+      "generated": false
+    },
+    {
       "id": "20260804-1",
       "date": "2026-08-04",
       "seo_title": "航运blank_sailing2026年08月：货代影响与建议",
