@@ -1,0 +1,28 @@
+{
+  "date": "2026-08-06",
+  "items": [
+    {
+      "carrier": "Maersk",
+      "type": "附加费",
+      "route": "欧线",
+      "effective": "24 Jul 2026",
+      "amount": "$100",
+      "detail": "Latest news"
+    },
+    {
+      "carrier": "Maersk",
+      "type": "附加费",
+      "route": "欧线",
+      "effective": "4 Aug 2026",
+      "amount": "$100",
+      "detail": "Maersk Less-than-Container Load (LCL) Surcharge Information 2026"
+    },
+    {
+      "carrier": "Maersk",
+      "type": "附加费",
+      "route": "欧线",
+      "effective": "5 Aug 2026",
+      "detail": "Peak Season Surcharge for the scope: MIDDLE EAST AND SOUTH ASIAN AREA - MIDDLE EAST AND SOUTH ASIAN AREA"
+    }
+  ]
+}
