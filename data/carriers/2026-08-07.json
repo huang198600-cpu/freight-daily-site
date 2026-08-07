@@ -1,0 +1,28 @@
+{
+  "date": "2026-08-07",
+  "items": [
+    {
+      "carrier": "Maersk",
+      "type": "空班",
+      "route": "欧线",
+      "effective": "24 Jul 2026",
+      "amount": "$100",
+      "detail": "Latest news"
+    },
+    {
+      "carrier": "Maersk",
+      "type": "空班",
+      "route": "欧线",
+      "effective": "4 Aug 2026",
+      "amount": "$100",
+      "detail": "Intermodal Fuel Fee update in Romania"
+    },
+    {
+      "carrier": "Maersk",
+      "type": "附加费",
+      "route": "欧线",
+      "effective": "6 Aug 2026",
+      "detail": "Revision of Peak Season Surcharge (PSS) from Far East Asia to  Mediterranean (E2W)"
+    }
+  ]
+}

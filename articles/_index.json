@@ -1,6 +1,27 @@
 {
   "articles": [
     {
+      "id": "20260807-1",
+      "date": "2026-08-07",
+      "seo_title": "上海台风封港2026年8月：欧线跳港叠加运价上涨，货代如何抢舱位",
+      "topic_type": "port_alert",
+      "generated": true
+    },
+    {
+      "id": "20260807-2",
+      "date": "2026-08-07",
+      "seo_title": "欧线运价8月再涨$349至$2700：Maersk空班2航次+附加费生效，即期订舱策略",
+      "topic_type": "rate_change",
+      "generated": true
+    },
+    {
+      "id": "20260807-3",
+      "date": "2026-08-07",
+      "seo_title": "中东线运价8月暴涨$2799至$3850：20GP即期价翻倍，货代中东出货怎么办",
+      "topic_type": "rate_change",
+      "generated": true
+    },
+    {
       "id": "20260806-1",
       "date": "2026-08-06",
       "seo_title": "港口异常08月：2026年货代应对方案",
