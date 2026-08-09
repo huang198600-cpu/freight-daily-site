@@ -248,21 +248,24 @@ def main():
 
     # 更新索引
     index_path = ARTICLES_DIR / "_index.json"
-    existing = load_json(index_path) or {"articles": []}
+    existing = load_json(index_path) or []
+    # 兼容旧格式：如果原来是 {"articles": [...]} 对象，提取数组
+    if isinstance(existing, dict) and "articles" in existing:
+        existing = existing["articles"]
     # 移除同日期旧文章
-    existing["articles"] = [
-        a for a in existing["articles"]
+    existing = [
+        a for a in existing
         if not a.get("date") == date_str
     ]
     for a in articles:
-        existing["articles"].append({
+        existing.append({
             "id": a["id"],
             "date": a["date"],
             "seo_title": a["seo_title"],
             "topic_type": a["topic_type"],
             "generated": False
         })
-    existing["articles"].sort(key=lambda x: x.get("date", ""), reverse=True)
+    existing.sort(key=lambda x: x.get("date", ""), reverse=True)
 
     with open(index_path, "w", encoding="utf-8") as f:
         json.dump(existing, f, ensure_ascii=False, indent=2)

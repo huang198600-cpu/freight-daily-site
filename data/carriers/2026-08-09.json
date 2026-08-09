@@ -1,0 +1,28 @@
+{
+  "date": "2026-08-09",
+  "items": [
+    {
+      "carrier": "Maersk",
+      "type": "附加费",
+      "route": "欧线",
+      "effective": "7 Aug 2026",
+      "amount": "$100",
+      "detail": "Latest news"
+    },
+    {
+      "carrier": "Maersk",
+      "type": "附加费",
+      "route": "欧线",
+      "effective": "4 Aug 2026",
+      "amount": "$100",
+      "detail": "TA10 Terminal Update"
+    },
+    {
+      "carrier": "Maersk",
+      "type": "附加费",
+      "route": "欧线",
+      "effective": "7 Aug 2026",
+      "detail": "Andernach Inland Terminal Service Disruption Due to Low Water Conditions"
+    }
+  ]
+}
