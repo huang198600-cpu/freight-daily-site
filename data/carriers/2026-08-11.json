@@ -1,0 +1,28 @@
+{
+  "date": "2026-08-11",
+  "items": [
+    {
+      "carrier": "Maersk",
+      "type": "附加费",
+      "route": "美东",
+      "effective": "7 Aug 2026",
+      "amount": "$100",
+      "detail": "Latest news"
+    },
+    {
+      "carrier": "Maersk",
+      "type": "附加费",
+      "route": "美东",
+      "effective": "4 Aug 2026",
+      "amount": "$100",
+      "detail": "Adriatic – Southeast Med Service (SLI) Voyage 633N"
+    },
+    {
+      "carrier": "Maersk",
+      "type": "附加费",
+      "route": "其他",
+      "effective": "10 Aug 2026",
+      "detail": "Emergency Inland Fuel/Energy surcharge"
+    }
+  ]
+}
