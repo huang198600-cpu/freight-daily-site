@@ -1,0 +1,27 @@
+{
+  "date": "2026-08-14",
+  "items": [
+    {
+      "carrier": "Maersk",
+      "type": "附加费",
+      "route": "美东",
+      "effective": "13 Aug 2026",
+      "amount": "USD 15",
+      "detail": "Latest news"
+    },
+    {
+      "carrier": "Maersk",
+      "type": "附加费",
+      "route": "美东",
+      "effective": "13 Aug 2026",
+      "detail": "Important Information on Live Chat Support & Standard Service Response Timelines (SLA’s)"
+    },
+    {
+      "carrier": "Maersk",
+      "type": "附加费",
+      "route": "其他",
+      "effective": "12 Aug 2026",
+      "detail": "Revision of ECS Announcement: India, Bangladesh, Sri Lanka, Nepal, Maldives to United Arab Emirates"
+    }
+  ]
+}
