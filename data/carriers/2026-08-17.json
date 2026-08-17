@@ -1,0 +1,27 @@
+{
+  "date": "2026-08-17",
+  "items": [
+    {
+      "carrier": "Maersk",
+      "type": "附加费",
+      "route": "欧线",
+      "effective": "13 Aug 2026",
+      "amount": "USD 15",
+      "detail": "Latest news"
+    },
+    {
+      "carrier": "Maersk",
+      "type": "附加费",
+      "route": "欧线",
+      "effective": "14 Aug 2026",
+      "detail": "Maersk Operations through Strait of Hormuz"
+    },
+    {
+      "carrier": "Maersk",
+      "type": "附加费",
+      "route": "东南亚",
+      "effective": "14 Aug 2026",
+      "detail": "IMPLEMENTATION OF INLAND PEAK SEASON SURCHARGE. ALGECIRAS HORIZONTAL REEFER TRANSPORTATION."
+    }
+  ]
+}
