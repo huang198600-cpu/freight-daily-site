@@ -1,0 +1,26 @@
+{
+  "date": "2026-08-21",
+  "items": [
+    {
+      "carrier": "Maersk",
+      "type": "附加费",
+      "route": "欧线",
+      "effective": "18 Aug 2026",
+      "detail": "Latest news"
+    },
+    {
+      "carrier": "Maersk",
+      "type": "附加费",
+      "route": "欧线",
+      "effective": "18 Aug 2026",
+      "detail": "Notice for timely payment remittance submission"
+    },
+    {
+      "carrier": "Maersk",
+      "type": "附加费",
+      "route": "其他",
+      "effective": "20 Aug 2026",
+      "detail": "Fuel Surcharge update in Cyprus"
+    }
+  ]
+}
