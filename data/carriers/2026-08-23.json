@@ -1,0 +1,26 @@
+{
+  "date": "2026-08-23",
+  "items": [
+    {
+      "carrier": "Maersk",
+      "type": "附加费",
+      "route": "欧线",
+      "effective": "18 Aug 2026",
+      "detail": "Latest news"
+    },
+    {
+      "carrier": "Maersk",
+      "type": "附加费",
+      "route": "欧线",
+      "effective": "18 Aug 2026",
+      "detail": "Notice for timely payment remittance submission"
+    },
+    {
+      "carrier": "Maersk",
+      "type": "附加费",
+      "route": "欧线",
+      "effective": "21 Aug 2026",
+      "detail": "Intransit/Landbridge Haulage (IT1) Far east and Oceania to DAMMAM (SA), DAMMAM FREE ZONE BONDED AREA (SA), RIYADH (SA)"
+    }
+  ]
+}
