@@ -1,0 +1,73 @@
+{
+  "date": "2026-08-25",
+  "source": "fallback",
+  "updated": false,
+  "ports": [
+    {
+      "port": "上海",
+      "status": "✅ 运行正常",
+      "wait_days": "0",
+      "alert": false,
+      "reason": "",
+      "source": "",
+      "source_url": "",
+      "alternative": "",
+      "detail": "无异常报告"
+    },
+    {
+      "port": "宁波",
+      "status": "✅ 运行正常",
+      "wait_days": "0",
+      "alert": false,
+      "reason": "",
+      "source": "",
+      "source_url": "",
+      "alternative": "",
+      "detail": "无异常报告"
+    },
+    {
+      "port": "深圳",
+      "status": "✅ 运行正常",
+      "wait_days": "0",
+      "alert": false,
+      "reason": "",
+      "source": "",
+      "source_url": "",
+      "alternative": "",
+      "detail": "无异常报告"
+    },
+    {
+      "port": "洛杉矶",
+      "status": "✅ 运行正常",
+      "wait_days": "0",
+      "alert": false,
+      "reason": "",
+      "source": "",
+      "source_url": "",
+      "alternative": "",
+      "detail": "无异常报告"
+    },
+    {
+      "port": "鹿特丹",
+      "status": "✅ 运行正常",
+      "wait_days": "0",
+      "alert": false,
+      "reason": "",
+      "source": "",
+      "source_url": "",
+      "alternative": "",
+      "detail": "无异常报告"
+    },
+    {
+      "port": "新加坡",
+      "status": "✅ 运行正常",
+      "wait_days": "0",
+      "alert": false,
+      "reason": "",
+      "source": "",
+      "source_url": "",
+      "alternative": "",
+      "detail": "无异常报告"
+    }
+  ]
+}
