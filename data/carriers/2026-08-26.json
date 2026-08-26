@@ -1,0 +1,74 @@
+{
+  "date": "2026-08-26",
+  "items": [
+    {
+      "carrier": "Maersk",
+      "type": "空班",
+      "route": "欧线",
+      "effective": "18 Aug 2026",
+      "detail": "Latest news"
+    },
+    {
+      "carrier": "Maersk",
+      "type": "空班",
+      "route": "欧线",
+      "effective": "18 Aug 2026",
+      "detail": "Customer Advisory - Draft Billing for Import D&D Updated process for PRV and drop-off requests"
+    },
+    {
+      "carrier": "Maersk",
+      "type": "附加费",
+      "route": "其他",
+      "effective": "25 Aug 2026",
+      "detail": "Update of Low Water Surcharge (LWS) for Inland Waterway Transportation in the Netherlands"
+    },
+    {
+      "carrier": "CMA CGM",
+      "type": "附加费",
+      "route": "中东",
+      "detail": "Middle East Situation Updates"
+    },
+    {
+      "carrier": "CMA CGM",
+      "type": "GRI",
+      "route": "东南亚",
+      "detail": "Rate Restoration Initiative (RRI02) - From Canada to the Indian Subcontinent, Middle East Gulf & Red Sea"
+    },
+    {
+      "carrier": "CMA CGM",
+      "type": "附加费",
+      "route": "欧线",
+      "detail": "UPDATE - PSS03 - From North Europe to the USA"
+    },
+    {
+      "carrier": "CMA CGM",
+      "type": "附加费",
+      "route": "美西",
+      "detail": "PSS - From India West Coast to South America East Coast"
+    },
+    {
+      "carrier": "CMA CGM",
+      "type": "GRI",
+      "route": "地中",
+      "detail": "Rate Restoration Initiative (RRI) - From the West Mediterranean to Canada"
+    },
+    {
+      "carrier": "CMA CGM",
+      "type": "附加费",
+      "route": "欧线",
+      "detail": "PSS - Reefers from North Europe & the Mediterranean to West Africa"
+    },
+    {
+      "carrier": "CMA CGM",
+      "type": "附加费",
+      "route": "其他",
+      "detail": "PCS (Port Congestion Surcharge) - Reefers to Tema, Ghana"
+    },
+    {
+      "carrier": "CMA CGM",
+      "type": "附加费",
+      "route": "欧线",
+      "detail": "INTERMODAL | Inland Emergency Fee"
+    }
+  ]
+}
