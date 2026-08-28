@@ -1,0 +1,26 @@
+{
+  "date": "2026-08-28",
+  "items": [
+    {
+      "carrier": "Maersk",
+      "type": "附加费",
+      "route": "欧线",
+      "effective": "18 Aug 2026",
+      "detail": "Latest news"
+    },
+    {
+      "carrier": "Maersk",
+      "type": "附加费",
+      "route": "欧线",
+      "effective": "18 Aug 2026",
+      "detail": "Global tariffs impacting supply chains"
+    },
+    {
+      "carrier": "Maersk",
+      "type": "附加费",
+      "route": "非洲",
+      "effective": "27 Aug 2026",
+      "detail": "Fuel Surcharge update in Macedonia"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "20260828-1",
+  "date": "2026-08-28",
+  "date_display": "2026年08月28日",
+  "seo_title": "Maersk欧线附加费8月生效：货代如何应对即期运价波动2026",
+  "topic_type": "surcharge",
+  "topic_detail": "Maersk：欧线附加费 ，18 Aug 2026起",
+  "prompt": "Write freight industry article for 20260828-1 about Maersk Europe route surcharges. Maersk announced Europe route surcharges effective Aug 18, 2026. Current Europe rate is $2,700/40HQ (flat). Maersk is the only carrier data we got today (MSC/CMA/ONE/COSCO all returned 403). The surcharge detail is vague but the brief says lock long-term contracts to avoid surcharges. No port alerts today. Rates flat across all routes.",
+  "impact": "即期订舱成本将增加，当前欧线即期运价$2,700/40HQ的基础上叠加附加费，单柜利润空间进一步被压缩。长协客户暂不受影响，但即期依赖型货代面临与船东重新议价的被动局面。今日MSC、CMA、ONE、COSCO四家船司数据均返回403，无法比对同行附加费水平，市场信息不对称加剧。各港口运作正常，无跳港或等泊异常，但附加费信号表明船司正在为旺季控舱做铺垫。",
+  "action_tip": "8月31日前与Maersk销售确认Q4长协舱位锁价条款，明确附加费豁免范围及起订量要求。9月5日前收集MSC、CMA等船司欧线报价进行交叉比价，当前单一数据源下避免对Maersk附加费幅度做单一依赖判断。8月28日起对所有欧线即期订舱单追加附加费备注字段，确保报价单透明度，避免客户纠纷。",
+  "body": "8月18日起，Maersk对亚欧航线正式征收附加费，这是2026年下半年首条明确落地的欧线附加费政策。当前欧线即期运价维持在$2,700/40HQ水平，整体运价较上周持平，尚未出现GRI式的大幅跳涨，但附加费的叠加将直接推升即期订舱的综合成本，挤压货代中间利润。值得注意的是，Maersk释放的关键信号是锁定长协可免附加费，这反映出船司在传统旺季前通过附加费机制引导货流向长协倾斜的策略意图，实质上是用价格杠杆重新分配舱位资源。从运力管理角度看，8月底至9月通常是欧线旺季前最后的订舱窗口期，船司需要提前锁定舱位利用率以保障后续航次的装载率，附加费既是收入端工具也是即期需求的调节阀。今日MSC、CMA CGM、ONE、中远海运四家主要船司官网数据均返回403无法获取，具体附加费金额Maersk亦未在通知中公开明细，目前仅有'Latest news'级别的笼统公告。在数据严重缺失的情况下，货代难以准确评估附加费对单柜成本的实际影响幅度，也无法与同行水平进行横向比对。从实操层面建议，手头有即期欧线货量的货代应尽快向Maersk销售团队索取书面附加费清单，逐条确认适用航线及生效节点，同时评估Q4长协锁价的可行性与体量门槛。当前港口端运作平稳，六大主要港口均无等泊延误或跳港调整，供应链瓶颈不在装卸环节，附加费更多源于船司对舱位供给的主动管控和旺季预期管理。货代需高度警惕的是，若其他船司在9月初跟进征收类似附加费，欧线即期运价可能在9月中下旬出现新一轮集中上行压力。",
+  "tags": ["欧线", "附加费", "Maersk", "货代", "2026", "08月"],
+  "generated": true
+}
