@@ -1,0 +1,26 @@
+{
+  "date": "2026-08-29",
+  "items": [
+    {
+      "carrier": "Maersk",
+      "type": "附加费",
+      "route": "欧线",
+      "effective": "18 Aug 2026",
+      "detail": "Latest news"
+    },
+    {
+      "carrier": "Maersk",
+      "type": "附加费",
+      "route": "欧线",
+      "effective": "18 Aug 2026",
+      "detail": "Transpacific Schedule Adjustments for Golden Week holiday period"
+    },
+    {
+      "carrier": "Maersk",
+      "type": "附加费",
+      "route": "大洋洲",
+      "effective": "28 Aug 2026",
+      "detail": "Intermodal Fuel Fee update in (New Zealand)"
+    }
+  ]
+}
