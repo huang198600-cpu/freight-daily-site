@@ -76,6 +76,12 @@ def generate_carrier_updates(carriers_data: Optional[dict]) -> list:
         amount = item.get("amount", "")
         detail = item.get("detail", "")
 
+        # 数据质量铁律：占位数据不是真公告，不能当作船司动态展示
+        if "占位数据" in detail or "占位" in detail:
+            line = f"{carrier}：今日官网/RSS均不可访问，未获取到经核实的公告"
+            updates.append(line)
+            continue
+
         if ctype == "GRI":
             line = f"{carrier}：{effective}起 {route}GRI {amount}"
         elif ctype == "空班":
@@ -109,17 +115,21 @@ def generate_port_alerts(ports_data: Optional[dict]) -> list:
         detail = p.get("detail", "")
 
         if alert:
-            parts = [f"{port}：⚠️"]
-            if reason:
-                parts.append(f"原因：{reason}")
-            parts.append(f"等泊 {wait} 天")
-            if alternative:
-                parts.append(f"替代：{alternative}")
-            if source:
-                parts.append(f"来源：{source}")
-            if detail:
-                parts.append(detail)
-            line = " | ".join(parts)
+            # 数据质量铁律：来源不明的预警（采集失败时的默认值）不作为异常推送
+            if "使用默认数据" in detail:
+                line = f"{port}：数据源暂不可用，今日无经核实的异常（历史预警仅供参考，请以码头/船司实时反馈为准）"
+            else:
+                parts = [f"{port}：⚠️"]
+                if reason:
+                    parts.append(f"原因：{reason}")
+                parts.append(f"等泊 {wait} 天")
+                if alternative:
+                    parts.append(f"替代：{alternative}")
+                if source:
+                    parts.append(f"来源：{source}")
+                if detail:
+                    parts.append(detail)
+                line = " | ".join(parts)
         else:
             line = f"{port}：{status}（等泊 {wait}）"
             if detail:
@@ -151,8 +161,10 @@ def generate_action_summary(rates_data: Optional[dict],
 
     # 基于船司 GRI
     if carriers_data and carriers_data.get("items"):
-        gri_items = [i for i in carriers_data["items"] if i.get("type") == "GRI"]
-        surcharge_items = [i for i in carriers_data["items"] if i.get("type") == "附加费"]
+        # 数据质量铁律：占位数据（采集失败时的默认值）不能生成操作建议
+        real_items = [i for i in carriers_data["items"] if "占位" not in i.get("detail", "")]
+        gri_items = [i for i in real_items if i.get("type") == "GRI"]
+        surcharge_items = [i for i in real_items if i.get("type") == "附加费"]
         
         for g in gri_items[:2]:
             actions.append(
@@ -167,7 +179,9 @@ def generate_action_summary(rates_data: Optional[dict],
 
     # 基于港口预警 — 关键改动：带原因和替代方案
     if ports_data and ports_data.get("ports"):
-        alert_ports = [p for p in ports_data["ports"] if p.get("alert", False)]
+        # 数据质量铁律：误报比漏报更危险 — 无真实来源支撑的预警不生成操作建议
+        alert_ports = [p for p in ports_data["ports"]
+                       if p.get("alert", False) and "使用默认数据" not in p.get("detail", "")]
         for p in alert_ports[:3]:
             reason = p.get("reason", "异常")
             alternative = p.get("alternative", "咨询船公司替代航线")

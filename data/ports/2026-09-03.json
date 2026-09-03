@@ -1,0 +1,71 @@
+{
+ "date": "2026-09-03",
+ "ports": [
+  {
+   "port": "宁波",
+   "status": "台风（沿用上周）",
+   "wait_days": "10",
+   "alert": true,
+   "reason": "台风",
+   "source": "rss",
+   "source_url": "https://www.freightwaves.com/feed",
+   "alternative": "上海/舟山（近洋替代）",
+   "detail": "外部数据源不可用，使用默认数据"
+  },
+  {
+   "port": "上海",
+   "status": "台风（沿用上周）",
+   "wait_days": "10",
+   "alert": true,
+   "reason": "台风",
+   "source": "rss",
+   "source_url": "https://www.freightwaves.com/feed",
+   "alternative": "宁波/舟山（近洋替代）",
+   "detail": "外部数据源不可用，使用默认数据"
+  },
+  {
+   "port": "洛杉矶",
+   "status": "正常运行",
+   "wait_days": "1-3",
+   "alert": false,
+   "reason": "",
+   "source": "port_website",
+   "source_url": "https://www.portoflosangeles.org/",
+   "alternative": "",
+   "detail": ""
+  },
+  {
+   "port": "鹿特丹",
+   "status": "⚠️ 罢工预警",
+   "wait_days": "1-2",
+   "alert": true,
+   "reason": "罢工（反对政府削减社会福利开支，9月4日荷兰海港罢工）",
+   "source": "theloadstar",
+   "source_url": "https://theloadstar.com/german-and-dutch-ports-braced-for-strike-action/",
+   "alternative": "9月4日前后避开鹿特丹直靠：改安特卫普/汉堡需先核实船司跳港计划；内陆驳船和铁路接驳9月4日预计中断，紧急货走卡车提柜需提前1-2天",
+   "detail": "The Loadstar 9月2日报道：荷兰海港9月4日罢工已宣布；同期德国ver.di工会9月2日晚班至9月4日晚班在汉堡/不来梅/下萨克森港口警告性罢工"
+  },
+  {
+   "port": "巴生",
+   "status": "运行正常",
+   "wait_days": "2-3",
+   "alert": false,
+   "reason": "",
+   "source": "",
+   "source_url": "",
+   "alternative": "",
+   "detail": "外部数据源不可用，使用默认数据"
+  },
+  {
+   "port": "新加坡",
+   "status": "正常运行",
+   "wait_days": "1-2",
+   "alert": false,
+   "reason": "",
+   "source": "port_website",
+   "source_url": "https://www.mpa.gov.sg/",
+   "alternative": "",
+   "detail": ""
+  }
+ ]
+}
