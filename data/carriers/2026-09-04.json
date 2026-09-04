@@ -1,0 +1,26 @@
+{
+  "date": "2026-09-04",
+  "items": [
+    {
+      "carrier": "Maersk",
+      "type": "空班",
+      "route": "欧线",
+      "effective": "2 Sep 2026",
+      "detail": "Latest news"
+    },
+    {
+      "carrier": "Maersk",
+      "type": "空班",
+      "route": "欧线",
+      "effective": "1 Sep 2026",
+      "detail": "OC1 Service– OLUF MAERSK 632S/637N Sydney Omission"
+    },
+    {
+      "carrier": "Maersk",
+      "type": "附加费",
+      "route": "其他",
+      "effective": "3 Sep 2026",
+      "detail": "Market Notification – Fuel Surcharge update in Mexico Effective Sept 1st, 2026"
+    }
+  ]
+}
